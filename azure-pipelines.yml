@@ -22,7 +22,7 @@ pool:
 
 variables: 
 
-  buildConfiguration: 'Release' 
+  buildConfiguration: 'Main' 
 
  
 
